@@ -59,11 +59,7 @@ author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Navigating the intersection of systems and security engineering"
-  links:
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/bgschult"
-
+ 
 footer:
   links:
     - label: "Linkedin"
