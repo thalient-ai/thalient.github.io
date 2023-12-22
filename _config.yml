@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Brandyn Schult"
-  avatar : "/assets/images/logo_blue.png"
+  avatar : "/assets/images/logo_bw.png"
   bio    : "Navigating the intersection of systems and security engineering"
 
 header:
@@ -65,10 +65,7 @@ header:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult"
- 
-header:
-  overlay_image: "/assets/images/header.png"   
-      
+   
 footer:
   links:
     - label: "Linkedin"
