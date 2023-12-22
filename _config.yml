@@ -65,6 +65,8 @@ header:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult"
+ 
+header:
   overlay_image: "/assets/images/header.png"   
       
 footer:
