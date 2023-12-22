@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Brandyn Schult"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/logo_blue.png"
   bio    : "Navigating the intersection of systems and security engineering"
  
 footer:
