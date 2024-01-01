@@ -16,8 +16,6 @@
 title: Thalient Cybernetics
 email: brandyn.schult@thalient.ai
 description: >- # this means to ignore newlines until "baseurl:"
-   Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration.
-twitter_username: 
 github_username: 
 minimal_mistakes_skin: "dark"
 search: true
@@ -58,7 +56,7 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_bw.png"
-  bio    : "Navigating the intersection of systems and security engineering"
+  bio    : "Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
