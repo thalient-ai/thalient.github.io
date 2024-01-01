@@ -16,10 +16,10 @@
 title: Thalient Cybernetics
 email: brandyn.schult@thalient.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Navigating the intersection of systems and security engineering
+  Integrating human values and ethical considerations into technological innovation
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
