@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_blue_upscale.png
 excerpt: >
-  Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration.<br />
+  by Brandyn Schult.<br />
 feature_row:
   - image_path: /assets/images/logo_bw.png
     alt: "customizable"
@@ -22,11 +22,6 @@ Our foundation is built on the concepts of [Thalience](https://www.kschroeder.co
 
 At its core, Thalience represents the evolution of scientific inquiry into a realm where science and subjective human experience intersect. It suggests a future where automated, non-human intelligences conduct scientific research, potentially developing models of the universe that, while objectively accurate, may differ from human understanding.
 
-it's about creating systems that can think and learn beyond our current capabilities, not limited to following human instructions. It focuses on developing technology that is capable of independently forming their own models of understanding the world, moving beyond predefined human-centric frameworks. It introduces the capability for systems to self-direct their learning and adaptation processes based on their interactions with the environment.
-
-A key aspect of Thalient Cybernetics is its emphasis on the collaboration between human and artificial intelligence. Instead of machines simply being tools for human use, they become partners in our path to understand and interact with the world. This partnership could unlock new ways of solving complex problems, as machines offer perspectives and solutions that might be completely new to us. It's not just about making machines smarter; it's about integrating their intelligence with ours to achieve a more comprehensive understanding.
-
-Moreover, Thalient Cybernetics introduces an ethical and human-centric approach to technology. It's not just about efficiency and functionality; it's also about considering what's beneficial for humanity. This means designing systems that align with our values and enhance our lives, not just in practical ways, but also in ways that enrich our understanding of the universe. Thalient Cybernetics isn't just a technical field; it's a bridge between technology and the human experience, offering a new way to see and interact with the world around us.
 ---
 
 {% include feature_row %}
