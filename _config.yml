@@ -15,10 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Thalient
 email: brandyn.schult@thalient.ai
-description: by Brandyn Schult
+subtitle: by Brandyn Schult
+name: &name "Brandyn Schult"
 github_username: 
 minimal_mistakes_skin: "dark"
 search: true
+logo: /assets/images/logo_bw.png
+masthead_title: " "
 
 # Build settings
 markdown: kramdown
