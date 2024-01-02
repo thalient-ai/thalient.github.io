@@ -19,6 +19,7 @@ name: &name "Brandyn Schult"
 github_username: 
 minimal_mistakes_skin: "dark"
 search: true
+masthead_title: " "
 
 # Build settings
 markdown: kramdown
