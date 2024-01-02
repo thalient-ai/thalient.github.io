@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_blue_upscale.png
 excerpt: >
-  Thaelient Cybernetics<br />
+  Thaelient Cybernetics <br />
 feature_row:
   - image_path: /assets/images/logo_bw.png
         title: "Digital Garden"
