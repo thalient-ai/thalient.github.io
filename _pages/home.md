@@ -6,10 +6,11 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_blue_upscale.png
 excerpt: >
-  Thaelient Cybernetics <br />
+  by Brandyn Schult.<br />
 feature_row:
   - image_path: /assets/images/logo_bw.png
-        title: "Digital Garden"
+    alt: "customizable"
+    title: "Digital Garden"
     excerpt: "Notes using Obsidian"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
