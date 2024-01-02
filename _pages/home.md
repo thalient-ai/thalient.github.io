@@ -7,9 +7,15 @@ header:
   overlay_image: /assets/images/logo_blue_upscale.png
 excerpt: >
   Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration.<br />
-
+feature_row:
+  - image_path: /assets/images/logo_bw.png
+    alt: "customizable"
+    title: "Digital Garden"
+    excerpt: "Notes using Obsidian"
+    url: "https://obsidian.thalient.ai/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
-
 At Thalient, we believe that the future of technology lies in its ability to align with and enrich the human experience. We foster the development of technology where human values and technological innovation go hand in hand. And, we use transformative approaches to how we interact with, understand, and utilize technology in our quest to comprehend and relate to the world around us. No matter the application, our goal remains the same: to harmonize the advancement of cybernetics with the enrichment of human life.
 
 Our foundation is built on the concepts of [Thalience](https://www.kschroeder.com/my-books/ventus/thalience) and [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine). In traditional cybernetics, systems are designed to respond and adapt based on human-defined parameters and models. Our goal is to take this further by enabling systems to autonomously develop their own models of the world such that they can independtly interpret, understand, and interact with their surroundings, potentially leading to novel insights and approaches.
@@ -21,17 +27,6 @@ it's about creating systems that can think and learn beyond our current capabili
 A key aspect of Thalient Cybernetics is its emphasis on the collaboration between human and artificial intelligence. Instead of machines simply being tools for human use, they become partners in our path to understand and interact with the world. This partnership could unlock new ways of solving complex problems, as machines offer perspectives and solutions that might be completely new to us. It's not just about making machines smarter; it's about integrating their intelligence with ours to achieve a more comprehensive understanding.
 
 Moreover, Thalient Cybernetics introduces an ethical and human-centric approach to technology. It's not just about efficiency and functionality; it's also about considering what's beneficial for humanity. This means designing systems that align with our values and enhance our lives, not just in practical ways, but also in ways that enrich our understanding of the universe. Thalient Cybernetics isn't just a technical field; it's a bridge between technology and the human experience, offering a new way to see and interact with the world around us.
-
----
-
-feature_row:
-  - image_path: /assets/images/logo_bw.png
-    alt: "customizable"
-    title: "Digital Garden"
-    excerpt: "Notes using Obsidian"
-    url: "https://obsidian.thalient.ai/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
