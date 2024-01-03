@@ -15,7 +15,7 @@ feature_row:
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    - image_path: /assets/images/logo_bw.png
+  - image_path: /assets/images/logo_bw.png
     alt: "customizable"
     title: "About Me"
     excerpt: " "
