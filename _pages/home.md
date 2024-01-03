@@ -8,23 +8,23 @@ header:
 excerpt: >
   Thalient Cybernetics <br />
 feature_row:
-  - image_path: /assets/images/logo_bw.png
+  - image_path: /assets/images/image_geometric.png
     alt: "customizable"
     title: "Digital Garden"
     excerpt: "Notes using Obsidian"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image_geometric.png
+  - image_path: /assets/images/logo_bw.png
     alt: "customizable"
     title: "About Me"
     excerpt: "A little bit"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/logo_bw.png
+  - image_path: /assets/images/image_geometric_2.png
     alt: "customizable"
-    title: "Digital Garden"
+    title: "Blog"
     excerpt: "Notes using Obsidian"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
