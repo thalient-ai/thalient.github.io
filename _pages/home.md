@@ -9,24 +9,24 @@ excerpt: >
   Thalient Cybernetics <br />
 feature_row:
   - image_path: /assets/images/image_geometric.png
-    alt: "customizable"
+    alt: " "
     title: "Knowledge Base"
     excerpt: " "
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/logo_bw.png
-    alt: "customizable"
+    alt: " "
     title: "About Me"
     excerpt: " "
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image_geometric_2.png
-    alt: "customizable"
+    alt: " "
     title: "Blog"
     excerpt: " "
-    url: "https://obsidian.thalient.ai/"
+    url: "/blog/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
