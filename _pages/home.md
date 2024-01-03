@@ -10,22 +10,22 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/image_geometric.png
     alt: "customizable"
-    title: "Digital Garden"
-    excerpt: "Notes using Obsidian"
+    title: "Knowledge Base"
+    excerpt: " "
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/logo_bw.png
     alt: "customizable"
     title: "About Me"
-    excerpt: "A little bit"
-    url: "https://obsidian.thalient.ai/"
+    excerpt: " "
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image_geometric_2.png
     alt: "customizable"
     title: "Blog"
-    excerpt: "Notes using Obsidian"
+    excerpt: " "
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
