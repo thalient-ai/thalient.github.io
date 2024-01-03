@@ -15,7 +15,7 @@ feature_row:
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    {: .text-center}
+    {: style="text-align: center;"}
   - image_path: /assets/images/logo_bw.png
     alt: "customizable"
     title: "About Me"
@@ -23,7 +23,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    {: .text-center}
+    {: style="text-align: center;"}
   - image_path: /assets/images/image_geometric_2.png
     alt: "customizable"
     title: "Blog"
@@ -31,7 +31,7 @@ feature_row:
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-    {: .text-center}
+    {: style="text-align: center;"}
 ---
 At Thalient, we believe that the future of technology lies in its ability to align with and enrich the human experience. We foster the development of technology where human values and technological innovation go hand in hand. And, we use transformative approaches to how we interact with, understand, and utilize technology in our quest to comprehend and relate to the world around us. No matter the application, our goal remains the same: to harmonize the advancement of cybernetics with the enrichment of human life.
 
