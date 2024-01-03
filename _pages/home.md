@@ -26,7 +26,7 @@ feature_row:
     alt: " "
     title: "Blog"
     excerpt: " "
-    url: "/blog/"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
