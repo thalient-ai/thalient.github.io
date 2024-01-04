@@ -59,6 +59,9 @@ author:
   avatar : "/assets/images/logo_bw.png"
   bio    : "Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration."
   links:
+    - label: "Email"
+      icon: "fa-regular fa-envelope"
+      url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult"
