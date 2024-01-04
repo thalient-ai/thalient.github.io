@@ -63,7 +63,7 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult"
    
 footer:
