@@ -6,11 +6,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_blue_upscale.png
   actions:
-    - label: "Email"
-      icon: "fas fa-envelope"
+    - icon: "fas fa-envelope"
       url: "mailto:brandyn@thalient.ai"
-    - label: "LinkedIn"
-      icon: "fas fa-linkedin"
+    - icon: "fas fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult/"
 excerpt: >
   Thalient Cybernetics <br />
