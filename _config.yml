@@ -18,7 +18,7 @@ email: brandyn.schult@thalient.ai
 name: &name "Brandyn Schult"
 github_username: 
 minimal_mistakes_skin: "dark"
-search: true
+search: false
 masthead_title: " "
 
 # Build settings
@@ -60,7 +60,7 @@ author:
   bio    : "Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration."
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
