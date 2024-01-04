@@ -8,8 +8,8 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
-excerpt: >
-  Thalient Cybernetics <br />
+#excerpt: >
+  #Thalient Cybernetics <br />
 feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
