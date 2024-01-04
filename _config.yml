@@ -68,6 +68,9 @@ author:
    
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bgschult"
