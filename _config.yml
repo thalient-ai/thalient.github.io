@@ -100,4 +100,4 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-MPNXYSRDZC"
-    anonymize_ip: false # default
+    anonymize_ip: true # default
