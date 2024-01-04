@@ -97,7 +97,4 @@ defaults:
 #  path: /tags/
 
 analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-MPNXYSRDZC"
-    anonymize_ip: true
+  provider: "custom"
