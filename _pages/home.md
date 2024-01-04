@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Learn"
   - image_path: /assets/images/logo_1.png
     alt: " "
-    title: "About Me"
+    title: "Knowledge Base"
     excerpt: " "
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
