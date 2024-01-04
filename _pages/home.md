@@ -5,6 +5,9 @@ hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_blue_upscale.png
+  actions:
+    - label: "Contact"
+      url: "brandyn@thalient.ai"
 excerpt: >
   Thalient Cybernetics <br />
 feature_row:
