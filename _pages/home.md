@@ -8,6 +8,7 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
+excerpt: " "
 feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
