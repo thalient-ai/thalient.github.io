@@ -14,14 +14,14 @@ feature_row:
     title: "Raisons D'etre"
     excerpt: "Milestones and progress"
     url: "/about/"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
     btn_label: "Discover"
   - image_path: /assets/images/logo_4.png
     alt: " "
     title: "Sapere Aude"
     excerpt: "Means of collective knowledge"
     url: "https://obsidian.thalient.ai/"
-    btn_class: "btn--light-outline .btn--large"
+    btn_class: "btn--inverse"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.png
     alt: " "
