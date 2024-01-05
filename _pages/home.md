@@ -8,32 +8,31 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
-excerpt: " "
 feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
-    title: "About Me"
+    title: "Profile"
     excerpt: " "
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn"
   - image_path: /assets/images/logo_1.png
     alt: " "
-    title: "Knowledge Base"
+    title: "Codex"
     excerpt: " "
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.png
     alt: " "
-    title: "Blog"
+    title: "Dispatches"
     excerpt: " "
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read"
 ---
 
-Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline of Thalient Cybernetics for a brighter future.
+Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline of Thalient Cybernetics for a brighter tomorrow.
 {: .bold .text-center}
 
 ---
