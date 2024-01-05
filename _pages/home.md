@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Memento mori"
     url: "/about/"
     btn_class: "btn--inverse"
-    btn_label: "Discover"
+    btn_label: "Reflect"
   - image_path: /assets/images/logo_4.webp
     alt: "Sapere Aude"
     title: "Sapere Aude"
@@ -29,7 +29,7 @@ feature_row:
     excerpt: "Moments of comprehension"
     url: "/satori/"
     btn_class: "btn--inverse"
-    btn_label: "Reflect"
+    btn_label: "Discover"
 ---
 
 Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow.
