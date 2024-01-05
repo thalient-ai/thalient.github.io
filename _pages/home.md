@@ -8,8 +8,6 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
-#excerpt: >
-  #Thalient Cybernetics <br />
 feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
@@ -34,7 +32,7 @@ feature_row:
     btn_label: "Read"
 ---
 
-Advancing Thalient Cybernetics: Committed to developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline for a responsible future.
+Advancing Thalient Cybernetics: Creating safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline for a responsible future.
 {: .text-center}
 
 ---
