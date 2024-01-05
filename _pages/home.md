@@ -21,14 +21,14 @@ feature_row:
     title: "Sapere Aude"
     excerpt: "Means of collective knowledge"
     url: "https://obsidian.thalient.ai/"
-    btn_class: "btn--primary"
+    btn_class: "btn--light-outline .btn--large"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.png
     alt: " "
     title: "Satori"
     excerpt: "Moments of comprehension"
     url: "/posts/"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
     btn_label: "Reflect"
 ---
 
