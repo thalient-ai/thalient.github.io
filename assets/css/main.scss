@@ -7,7 +7,7 @@ search: false
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
-$sans-serif : "Montserrat", sans-serif;
+$sans-serif : "Roboto", sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
