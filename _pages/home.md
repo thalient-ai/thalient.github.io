@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Reflect"
 ---
 
-Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline of Thalient Cybernetics for a brighter tomorrow.
+Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline of {Thalient Cybernetics}(/thalient-cybernetics/) for a brighter tomorrow.
 {: .bold .text-center}
 
 ---
