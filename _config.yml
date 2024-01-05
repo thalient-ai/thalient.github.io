@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Brandyn Schult"
-  avatar : "/assets/images/logo_bw.png"
+  avatar : "/assets/images/logo_blue.png"
   bio    : "Redefining our relationship with the natural world and the universe, using science as a foundation for a new form of creative, subjective exploration."
   links:
     - label: "Email"
