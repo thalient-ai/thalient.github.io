@@ -12,14 +12,14 @@ feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
     title: "Raisons D'etre"
-    excerpt: "My background and trajectory"
+    excerpt: "Milestones and momentum, dai-shinkai"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn"
   - image_path: /assets/images/logo_4.png
     alt: " "
     title: "Sapere Aude"
-    excerpt: "A means of collective knowledge"
+    excerpt: "Means of collective knowledge"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Explore"
