@@ -24,10 +24,5 @@ $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
-// This changes the code box
-.initial-content {
-  font-family: $helvetica;
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
