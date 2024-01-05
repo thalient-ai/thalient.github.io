@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
     title: "Raisons D'être"
-    excerpt: "Milestones and progress"
+    excerpt: "Manifest and maturation"
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
