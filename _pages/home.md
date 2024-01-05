@@ -37,4 +37,4 @@ Developing safe and secure systems, fostering ethical and trustworthy technology
 
 ---
 
-{% include feature_row % type="center"}
+{% include feature_row type="center" %}
