@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
     title: "Raisons D'être"
-    excerpt: "Manifest and maturation"
+    excerpt: "Memento mori"
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Reflect"
 ---
 
-Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [Thalient Cybernetics](/thalient-cybernetics/) for a brighter tomorrow.
+Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow.
 {: .bold .text-center}
 
 ---
