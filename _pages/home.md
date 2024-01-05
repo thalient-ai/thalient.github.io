@@ -34,13 +34,9 @@ feature_row:
     btn_label: "Read"
 ---
 
-Center aligned text. `.text-center`
+Advancing Thalient Cybernetics: Committed to developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline for a responsible future.
 {: .text-center}
 
-```markdown
-Center aligned text.
-{: .text-center}
-```
 ---
 
 {% include feature_row %}
