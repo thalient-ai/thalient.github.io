@@ -17,8 +17,8 @@ title: Brandyn Schult
 email: brandyn.schult@thalient.ai
 name: &name "Brandyn Schult"
 github_username: 
-minimal_mistakes_skin: "dark"
-search: false
+minimal_mistakes_skin: "dirt"
+search: true
 masthead_title: " "
 
 # Build settings
