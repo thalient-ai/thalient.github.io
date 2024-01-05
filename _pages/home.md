@@ -12,21 +12,21 @@ feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
     title: "Profile"
-    excerpt: "background and raisons d'etre"
+    excerpt: "raisons d'etre"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn"
-  - image_path: /assets/images/logo_1.png
+  - image_path: /assets/images/logo_4.png
     alt: " "
     title: "Codex"
-    excerpt: "Sapere Aude"
+    excerpt: "sapere aude"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--primary"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.png
     alt: " "
     title: "Dispatches"
-    excerpt: "My thoughts and satori"
+    excerpt: "satori"
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read"
