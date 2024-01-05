@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Milestones and momentum, dai-shinkai"
     url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn"
+    btn_label: "Discover"
   - image_path: /assets/images/logo_4.png
     alt: " "
     title: "Sapere Aude"
@@ -26,10 +26,10 @@ feature_row:
   - image_path: /assets/images/logo_3.png
     alt: " "
     title: "Satori"
-    excerpt: "Moments of comprehension and understanding"
+    excerpt: "Moments of comprehension"
     url: "/posts/"
     btn_class: "btn--primary"
-    btn_label: "Read"
+    btn_label: "Reflect"
 ---
 
 Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline of Thalient Cybernetics for a brighter tomorrow.
