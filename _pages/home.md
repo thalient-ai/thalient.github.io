@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
     title: "Raisons D'etre"
-    excerpt: "Milestones and momentum, dai-shinkai"
+    excerpt: "Milestones and progress"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Discover"
@@ -37,4 +37,4 @@ Developing safe and secure systems, fostering ethical and trustworthy technology
 
 ---
 
-{% include feature_row %}
+{% include feature_row % type="center" %}
