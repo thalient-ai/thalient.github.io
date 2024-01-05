@@ -10,7 +10,6 @@ header:
       url: "mailto:brandyn@thalient.ai"
 #excerpt: >
   #Thalient Cybernetics <br />
----
 feature_row:
   - image_path: /assets/images/logo_2.png
     alt: " "
@@ -33,6 +32,15 @@ feature_row:
     url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Read"
+---
+
+Center aligned text. `.text-center`
+{: .text-center}
+
+```markdown
+Center aligned text.
+{: .text-center}
+```
 ---
 
 {% include feature_row %}
