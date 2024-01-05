@@ -32,8 +32,8 @@ feature_row:
     btn_label: "Read"
 ---
 
-Advancing Thalient Cybernetics: Creating safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline for a responsible future.
-{: .text-center}
+Advancing Thalient Cybernetics: Creating safe and secure systems, fostering ethical and trustworthy technology, and maturing the discipline for a brighter future.
+{: .bold .text-center}
 
 ---
 
