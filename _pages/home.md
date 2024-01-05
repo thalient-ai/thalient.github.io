@@ -27,7 +27,7 @@ feature_row:
     alt: " "
     title: "Satori"
     excerpt: "Moments of comprehension"
-    url: "/posts/"
+    url: "/satori/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
 ---
