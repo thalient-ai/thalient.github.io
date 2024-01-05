@@ -23,3 +23,6 @@ $garamond                   : Garamond, serif;
 $global-font-family         : $helvetica;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
