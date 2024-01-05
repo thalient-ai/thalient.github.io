@@ -10,21 +10,21 @@ header:
       url: "mailto:brandyn@thalient.ai"
 feature_row:
   - image_path: /assets/images/logo_2.png
-    alt: " "
-    title: "Raisons D'etre"
+    alt: "Raisons D'être"
+    title: "Raisons D'être"
     excerpt: "Milestones and progress"
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
   - image_path: /assets/images/logo_4.png
-    alt: " "
+    alt: "Sapere Aude"
     title: "Sapere Aude"
     excerpt: "Means of collective knowledge"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.png
-    alt: " "
+    alt: "Satori"
     title: "Satori"
     excerpt: "Moments of comprehension"
     url: "/satori/"
