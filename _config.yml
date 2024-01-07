@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  bio    : "Merging scientific exploration and technological innovation with creative adaptation"
+  #bio    : "Merging scientific exploration and technological innovation with creative adaptation"
+  bio  : "Transformative technology beyond function and towards understanding"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
