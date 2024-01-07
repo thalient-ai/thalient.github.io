@@ -64,12 +64,15 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:brandyn@thalient.ai"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bschult"
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:949-490-0614"
     - label: "Github"
       icon: "fab fa-github"
       url: "https://github.com/thalient-ai/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bschult"
    
 footer:
   links:
@@ -79,12 +82,12 @@ footer:
     - label: "Phone"
       icon: "fas fa-phone"
       url: "tel:949-490-0614"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bschult"
     - label: "Github"
       icon: "fab fa-github"
       url: "https://github.com/thalient-ai/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bschult"
 
 defaults:
   # _posts
