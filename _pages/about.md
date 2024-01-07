@@ -4,7 +4,7 @@ title: "Raisons D'etre"
 ---
 **The Mindful Legacy**
 
-My life's guiding principle is deeply-rooted in the awareness that every action, no matter how small, reverberate far beyond the immediate moment. This realization transcends the mere pursuit of personal achievements and anchors me in the present moment. In this space of mindfulness, I find the true power of living – a commitment to actions that nurture the collective well-being of humanity and our planet. Each moment, then, becomes a conscious act of contributing to a greater whole, a practice of mindful engagement with the world.
+My life's guiding principle is deeply-rooted in the awareness that every action, no matter how small, reverberate far beyond the immediate moment. This realization transcends the mere pursuit of personal achievements and anchors me in the present. In this space of mindfulness, I find the true purpose in living – a commitment to actions that nurture the collective well-being of humanity and our planet. Each moment, then, becomes a conscious act of contributing to a greater whole, a practice of mindful engagement with the world.
 
 The finiteness of our existence, rather than being a source of fear, is a profound reminder to live with purpose and presence. It imbues each day with significance, transforming routine actions into purposeful steps towards a legacy that outlasts our physical presence. In this continual flow of presence, I see my life as an interconnected thread in the tapestry of existence, where each decision shapes the collective journey.
 
