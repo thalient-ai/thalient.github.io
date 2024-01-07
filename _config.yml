@@ -67,6 +67,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
+   - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/thalient-ai/thalient.github.io"
    
 footer:
   links:
@@ -76,6 +79,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/thalient-ai/thalient.github.io"
 
 defaults:
   # _posts
