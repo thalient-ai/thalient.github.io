@@ -66,7 +66,7 @@ author:
       url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bgschult"
+      url: "https://www.linkedin.com/in/bschult"
    
 footer:
   links:
@@ -75,7 +75,7 @@ footer:
       url: "mailto:brandyn@thalient.ai"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/bgschult"
+      url: "https://www.linkedin.com/in/bschult"
 
 defaults:
   # _posts
