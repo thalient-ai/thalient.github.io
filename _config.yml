@@ -76,6 +76,9 @@ footer:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:brandyn@thalient.ai"
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:949-490-0614"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
@@ -113,3 +116,6 @@ defaults:
 
 analytics:
   provider: "custom"
+
+atom_feed:
+  hide: true
