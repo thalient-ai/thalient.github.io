@@ -4,7 +4,7 @@ title: "Raisons D'etre"
 ---
 **Reflections**
 
-My life's essence flows from a deep-rooted awareness that every action, no matter how small, echoes into the vastness of time and space. This realization transcends the mere pursuit of personal achievements and anchors me in the present moment. In this space of mindfulness, I find the true power of living – a commitment to actions that nurture the collective well-being of humanity and our planet. Each moment, then, becomes a conscious act of contributing to a greater whole, a practice of mindful engagement with the world.
+My life's guiding principle is deeply-rooted in the awareness that every action, no matter how small, reverberate far beyond the immediate moment. This realization transcends the mere pursuit of personal achievements and anchors me in the present moment. In this space of mindfulness, I find the true power of living – a commitment to actions that nurture the collective well-being of humanity and our planet. Each moment, then, becomes a conscious act of contributing to a greater whole, a practice of mindful engagement with the world.
 
 The finiteness of our existence, rather than being a source of fear, is a profound reminder to live with purpose and presence. It imbues each day with significance, transforming routine actions into purposeful steps towards a legacy that outlasts our physical presence. In this continual flow of presence, I see my life as an interconnected thread in the tapestry of existence, where each decision shapes the collective journey.
 
@@ -12,4 +12,4 @@ In this approach, the collective outcome of our actions becomes a subject of par
 
 **Purpose**
 
-In my pursuit of the extraordinary, I find the commonplace, the routine, utterly insufficient. My ambition is not merely to participate in the world, but to be a pivot point for monumental change. I seek to be at the very epicenter of transformation, where every action and decision transcends the trivial and shapes the course of history. It's a relentless drive towards the remarkable, a rejection of the mundane in favor of the impactful.
+In my pursuit of the extraordinary, I find the commonplace, the routine, utterly insufficient. My ambition is not merely to participate in the world, but to be a fulcrum for monumental change. I seek to be at the very epicenter of transformation, where every action and decision transcends the trivial and shapes the course of history. It's a relentless drive towards the remarkable, a rejection of the mundane in favor of the impactful.
