@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: false
-title: " "
+title: "Thalient Cybernetics"
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
@@ -12,7 +12,6 @@ clases: wide
 
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
-    title: "Thalient Cybernetics"
     alt: "thalient.ai Logo for Thalient Cybernetics"
     excerpt: "Our vision at [Thalient Cybernetics](/thalient-cybernetics/) is to pioneer the future of technology by crafting systems that are not mere tools, but active participants in understanding and interacting with the world. We commit to blending advanced technology with a deep understanding of human values, ensuring our innovations enrich lives in a way that is meaningful and deeply human.
 <br>
