@@ -20,8 +20,8 @@ description: "A profile on Brandyn Schult and Thalient Cybernetics"
 github_username: thalient-ai
 minimal_mistakes_skin: "dark"
 search: true
-masthead_title: "Brandyn Schult"
-breadcrums: true
+masthead_title: " "
+breadcrumsb: true
 
 # Build settings
 markdown: kramdown
