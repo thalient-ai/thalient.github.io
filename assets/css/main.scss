@@ -10,10 +10,26 @@ $serif      : Georgia, Times, serif;
 $sans-serif : "Roboto", sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-    .page__title,
-    .page__meta,
-    .page__lead,
-    .page__hero-image,
+    .page__title {
+      color: #fff;
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+    }
+
+    .page__meta {
+      color: #fff;
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+    }
+
+    .page__lead {
+      color: #fff;
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+    }
+
+    .page__hero-image {
+      color: #fff;
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
+    }
+
     .page__hero-caption {
       color: #fff;
       text-shadow: 3px 3px 4px rgba(#000, 0.8);
