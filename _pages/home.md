@@ -17,7 +17,7 @@ feature_row:
     excerpt: "Our vision at [Thalient Cybernetics](/thalient-cybernetics/) is to pioneer the future of technology by crafting systems that are not mere tools, but active participants in understanding and interacting with the world. We commit to blending advanced technology with a deep understanding of human values, ensuring our innovations enrich lives in a way that is meaningful and deeply human.
 <br>
 <br>
-At Thalient Cybernetics, we develop safe and secure systems; foster ethical, trustworthy technology; and mature our discipline for a brighter tomorrow.""
+At Thalient Cybernetics, we develop safe and secure systems; foster ethical, trustworthy technology; and mature our discipline for a brighter tomorrow."
 
 feature_row2:
   - image_path: /assets/images/logo_2.webp
