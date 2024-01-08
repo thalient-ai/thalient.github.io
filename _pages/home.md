@@ -27,14 +27,14 @@ feature_row2:
   - image_path: /assets/images/logo_4.webp
     title: "Sapere Aude"
     alt: "Sapere Aude"
-    excerpt: "*Dare to Know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowlege base powered by Obsidian, a digital garden."
+    excerpt: "*Dare to Know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowledge base powered by Obsidian, a digital garden."
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.webp
     title: "Satori"
     alt: "Satori"
-    excerpt: "*Satori*, a sudden, profound enlightenment or awakening. Satori is a colletion of my moments of insight and lasting realizations."
+    excerpt: "*Satori*, a sudden, profound enlightenment or awakening. Satori is a collection of my moments of insight and lasting realizations."
     url: "/satori/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
