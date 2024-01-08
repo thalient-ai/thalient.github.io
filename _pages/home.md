@@ -1,21 +1,21 @@
 ---
-layout: splash
+layout: single
 permalink: /
 hidden: false
-author_profile: true
 title: "Thalient Cybernetics"
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
   overlay_image: /assets/images/header.webp
-  actions:
-    - label: Contact Me
-      url: "mailto:brandyn@thalient.ai"
+author_profile: true
+clases: wide
+
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
     alt: "thalient.ai Logo for Thalient Cybernetics"
     title: "Thalient Cybernetics"
     excerpt: "Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow."
+
 feature_row2:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
