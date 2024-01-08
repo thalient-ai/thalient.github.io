@@ -26,7 +26,7 @@ feature_row2:
     btn_label: "Reflect"
   - image_path: /assets/images/logo_4.webp
     alt: "Sapere Aude"
-    excerpt: "Means of collective knowledge"
+    excerpt: ""Dare to Know", knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowlege base powered by Obsidian, a digital garden"
     title: "Sapere Aude"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
