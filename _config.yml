@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Brandyn Schult
+title: Thalient Cybernetics
+title_separator: "|"
 email: brandyn@thalient.ai
-name: &name "Brandyn Schult"
+name: "Brandyn Schult"
 description: "A profile on Brandyn Schult and Thalient Cybernetics"
+url: https://www.thalient.ai/
 github_username: thalient-ai
 minimal_mistakes_skin: "dark"
 search: true
@@ -56,11 +58,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
   #bio    : "Merging scientific exploration and technological innovation with creative adaptation"
   bio  : "Transforming technology beyond function and towards understanding"
+  location: "Orange County (CA)"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
@@ -74,7 +78,8 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
-   
+
+# Site Footer
 footer:
   links:
     - label: "Email"
@@ -90,6 +95,7 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
 
+# Defaults
 defaults:
   # _posts
   - scope:
