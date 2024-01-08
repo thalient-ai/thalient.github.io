@@ -20,7 +20,7 @@ name: "Brandyn Schult"
 description: "A profile on Brandyn Schult and Thalient Cybernetics"
 url: https://www.thalient.ai/
 github_username: thalient-ai
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 search: true
 masthead_title: " "
 breadcrumsb: true
