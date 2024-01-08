@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/logo_blue_upscale.webp
+  overlay_image: /assets/images/header.webp
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
