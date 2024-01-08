@@ -19,18 +19,21 @@ feature_row2:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
     excerpt: "Memento mori"
+    title: "Raisons D'être"
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
   - image_path: /assets/images/logo_4.webp
     alt: "Sapere Aude"
     excerpt: "Means of collective knowledge"
+    title: "Sapere Aude"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.webp
     alt: "Satori"
     excerpt: "Moments of comprehension"
+    title: "Satori"
     url: "/satori/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
