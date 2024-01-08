@@ -8,6 +8,7 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
+![Thalient.ai Thalient Cybernetics]({{ site.url }}{{ site.baseurl }}/assets/images/logo_blue.webp)
 feature_row:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
