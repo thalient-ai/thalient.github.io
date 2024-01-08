@@ -18,23 +18,23 @@ feature_row:
 
 feature_row2:
   - image_path: /assets/images/logo_2.webp
-    alt: "Raisons D'être"
-    excerpt: "*Reasons for being", this is my philosophy about meaning and purpose. *Memento more* is to remember that time is a limited resource."
     title: "Raisons D'être"
+    alt: "Raisons D'être"
+    excerpt: "*Reasons for being*, this is my philosophy about meaning and purpose. *Memento more* is to remember that time is a limited resource."
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
   - image_path: /assets/images/logo_4.webp
+    title: "Sapere Aude"
     alt: "Sapere Aude"
     excerpt: "*Dare to Know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowlege base powered by Obsidian, a digital garden."
-    title: "Sapere Aude"
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.webp
-    alt: "Satori"
-    excerpt: " "
     title: "Satori"
+    alt: "Satori"
+    excerpt: "*Satori*, a sudden, profound enlightenment or awakening. Satori is a colletion of my moments of insight and lasting realizations."
     url: "/satori/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
