@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Thalient Cybernetics
-title_separator: "|"
+#title_separator: "|"
 email: brandyn@thalient.ai
 name: "Brandyn Schult"
 description: "A profile on Brandyn Schult and Thalient Cybernetics"
@@ -24,6 +24,7 @@ minimal_mistakes_skin: "dark"
 search: true
 masthead_title: " "
 breadcrumsb: true
+og_image: /assets/images/logo_blue_circle.webp
 
 # Build settings
 markdown: kramdown
@@ -62,7 +63,6 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  #bio    : "Merging scientific exploration and technological innovation with creative adaptation"
   bio  : "Transforming technology beyond function and towards understanding"
   location: "Orange County (CA)"
   links:
