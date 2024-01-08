@@ -10,13 +10,5 @@ $serif      : Georgia, Times, serif;
 $sans-serif : "Roboto", sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-    .page__title,
-    .page__meta,
-    .page__lead,
-    .btn {
-      color: #fff;
-      text-shadow: 3px 3px 4px rgba(#000, 0.8);
-    }
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
