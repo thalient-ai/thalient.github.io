@@ -32,8 +32,6 @@ feature_row:
     btn_label: "Discover"
 ---
 
-![Thalient.ai Thalient Cybernetics]({{ site.url }}{{ site.baseurl }}/assets/images/logo_blue.webp)
-
 Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow.
 {: .bold .text-center}
 
