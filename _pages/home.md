@@ -33,7 +33,7 @@ feature_row2:
     btn_label: "Explore"
   - image_path: /assets/images/logo_3.webp
     alt: "Satori"
-    excerpt: "*Satori*, a sudden, profound enlightenment or awakening. Satori is a colletion of my moments of insight and lasting realizations."
+    excerpt: " "
     title: "Satori"
     url: "/satori/"
     btn_class: "btn--inverse"
