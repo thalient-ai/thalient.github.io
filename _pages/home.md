@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: false
-title: "Thalient Cybernetics"
+title: " "
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
@@ -12,6 +12,7 @@ clases: wide
 
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
+    title: "Thalient Cybernetics"
     alt: "thalient.ai Logo for Thalient Cybernetics"
     excerpt: "Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow."
 
