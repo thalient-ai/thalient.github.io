@@ -2,13 +2,14 @@
 layout: single
 permalink: /
 hidden: false
-title: "Thalient Cybernetics"
+title: " "
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
   overlay_image: /assets/images/header.webp
 author_profile: true
 clases: wide
+masthead_title: "Thalient Cybernetics"
 
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
