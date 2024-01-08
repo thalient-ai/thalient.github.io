@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Raisons D'etre"
+title: "Raisons D'être"
 ---
 **The Mindful Legacy**
 
