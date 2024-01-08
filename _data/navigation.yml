@@ -1,9 +1,9 @@
 main:
   - title: "Résumé"
     url: assets/docs/Brandyn_Schult_Resume.pdf
-  -title: "Raisons D'être"
+  - title: "Raisons D'être"
     url: /about/
-  -title: "Sapere Aude"
+  - title: "Sapere Aude"
     url: https://obsidian.thaliant.ai/
-  -title: "Satori"
+  - title: "Satori"
     url: /satori/
