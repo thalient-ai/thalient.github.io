@@ -13,7 +13,6 @@ clases: wide
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
     alt: "thalient.ai Logo for Thalient Cybernetics"
-    title: "Thalient Cybernetics"
     excerpt: "Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow."
 
 feature_row2:
