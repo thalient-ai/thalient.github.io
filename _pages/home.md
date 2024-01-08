@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
   overlay_image: /assets/images/header.webp
- # actions:
+  actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
 feature_row:
