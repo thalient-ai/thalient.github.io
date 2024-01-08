@@ -23,8 +23,6 @@ feature_row2:
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
-
-feature_row3:
   - image_path: /assets/images/logo_4.webp
     alt: "Sapere Aude"
     title: "Sapere Aude"
@@ -32,8 +30,6 @@ feature_row3:
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
-
-feature_row4:
   - image_path: /assets/images/logo_3.webp
     alt: "Satori"
     title: "Satori"
@@ -45,8 +41,4 @@ feature_row4:
 
 {% include feature_row type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row3" type="center" %}
-
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row2" %}
