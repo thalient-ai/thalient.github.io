@@ -10,9 +10,10 @@ $serif      : Georgia, Times, serif;
 $sans-serif : "Roboto", sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-    .page__hero--overlay{
+    .page__hero--overlay,
+    .page__title {
       color: #fff;
-      text-shadow: 3px 3px 1px rgba(#000, 0.8);
+      text-shadow: px px 1px rgba(#000, 0.8);
     }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
