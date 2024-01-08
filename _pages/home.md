@@ -8,7 +8,14 @@ header:
   actions:
     - label: Contact Me
       url: "mailto:brandyn@thalient.ai"
+intro:
+  - excerpt: "Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow."
 feature_row:
+  - image_path: assets/images/logo_blue_circle.webp
+    alt: "thalient.ai Logo for Thalient Cybernetics"
+    title: "Thalient Cybernetics"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
   - image_path: /assets/images/logo_2.webp
     alt: "Raisons D'être"
     title: "Raisons D'être"
@@ -32,9 +39,8 @@ feature_row:
     btn_label: "Discover"
 ---
 
-Developing safe and secure systems, fostering ethical and trustworthy technology, and maturing [thalient cybernetics](/thalient-cybernetics/) for a brighter tomorrow.
-{: .bold .text-center}
+{% include feature_row id="intro" type="center" %}
 
----
+{% include feature_row type="left" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row2" %}
