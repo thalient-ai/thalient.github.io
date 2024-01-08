@@ -10,5 +10,15 @@ $serif      : Georgia, Times, serif;
 $sans-serif : "Roboto", sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
+h2 {
+    font-size: 1em;
+}
+
+.page__content p, .page__content li, .page__content dl {
+    font-size: .9em;
+}
+
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
