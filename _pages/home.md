@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /assets/images/logo_4.webp
     title: "Sapere Aude"
     alt: "Sapere Aude"
-    excerpt: "*Dare to Know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowledge base powered by Obsidian, a digital garden."
+    excerpt: "*Dare to know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is my personal knowledge base powered by Obsidian, a digital garden."
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
