@@ -33,7 +33,7 @@ feature_row3:
     btn_class: "btn--inverse"
     btn_label: "Explore"
 
-feature_row4
+feature_row4:
   - image_path: /assets/images/logo_3.webp
     alt: "Satori"
     title: "Satori"
