@@ -2,6 +2,13 @@
 layout: splash
 permalink: /
 hidden: false
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: 0.5
+  overlay_image: /assets/images/header.webp
+  actions:
+    - label: Contact Me
+      url: "mailto:brandyn@thalient.ai"
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
     alt: "thalient.ai Logo for Thalient Cybernetics"
