@@ -2,6 +2,8 @@
 layout: splash
 permalink: /
 hidden: false
+author_profile: true
+title: "Thalient Cybernetics"
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.5
