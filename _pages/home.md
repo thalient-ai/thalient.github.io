@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /
+permalink:
 hidden: false
 title: "Thalient Cybernetics"
 header:
