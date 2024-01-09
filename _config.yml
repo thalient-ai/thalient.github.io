@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  bio  : "Transforming technology beyond function and towards understanding"
+  bio  : "Elevating technology from mere functionality to profound understanding"
   location: "Orange County (CA)"
   links:
     - label: "Email"
