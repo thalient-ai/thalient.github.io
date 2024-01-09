@@ -15,6 +15,7 @@ feature_row:
     alt: "thalient.ai Logo for Thalient Cybernetics"
     excerpt: "At Thalient Cybernetics, we stand at the frontier of a new era, shaping the future of technology not as mere tools, but as active, insightful participants in a world that yearns for understanding. Our vision is to meld the prowess of advanced technology with the depth of human values, crafting innovations that resonate deeply with the human experience.
 <br>
+<br>
 Here, we are more than creators; we are guardians of a future where technology serves not only with efficiency but with ethics, where safety and trust are not mere words but the pillars of our every endeavor. At Thalient, our endeavor is not just to innovate, but to illuminate, guiding humanity towards a dawn where technology and ethical responsibility converge for a brighter, more humane tomorrow."
 
 feature_row2:
