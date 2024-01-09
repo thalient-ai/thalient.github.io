@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /raison/
 title: "Raison D'être"
 ---
 
