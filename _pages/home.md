@@ -20,9 +20,9 @@ Here, we are more than creators; we are stewards of a future where technology se
 
 feature_row2:
   - image_path: /assets/images/logo_2.webp
-    title: "Raisons D'être"
-    alt: "Raisons D'être"
-    excerpt: "*Reasons for being*, this is our philosophy about meaning and purpose. *Memento mori* is to remember that time is a limited resource."
+    title: "Raison D'être"
+    alt: "Raison D'être"
+    excerpt: "*Reasons for being*, this is our philosophy, our meaning and purpose. *Memento mori* is to remember that time is a limited resource."
     url: "/about/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
