@@ -23,7 +23,7 @@ feature_row2:
     title: "Raison D'être"
     alt: "Raison D'être"
     excerpt: "*Reasons for being*, this is our philosophy, our meaning and purpose. *Memento mori* is to remember that time is a limited resource."
-    url: "/about/"
+    url: "/raison/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
   - image_path: /assets/images/logo_4.webp
