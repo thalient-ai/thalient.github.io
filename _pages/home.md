@@ -13,10 +13,9 @@ clases: wide
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
     alt: "thalient.ai Logo for Thalient Cybernetics"
-    excerpt: "Our vision at [Thalient Cybernetics](/thalient-cybernetics/) is to pioneer the future of technology by crafting systems that are not mere tools, but active participants in understanding and interacting with the world. We strive to integrate advanced technology with a genuine regard for human values, ensuring that innovations enrich lives in a way that is both meaningful and deeply human.
+    excerpt: "At Thalient Cybernetics, we stand at the frontier of a new era, shaping the future of technology not as mere tools, but as active, insightful participants in a world that yearns for understanding. Our vision is to meld the prowess of advanced technology with the depth of human values, crafting innovations that resonate deeply with the human experience.
 <br>
-<br>
-At Thalient Cybernetics, we develop safe and secure systems; foster ethical, trustworthy technology; and promote responsible innovation for a brighter tomorrow."
+Here, we are more than creators; we are guardians of a future where technology serves not only with efficiency but with ethics, where safety and trust are not mere words but the pillars of our every endeavor. At Thalient, our endeavor is not just to innovate, but to illuminate, guiding humanity towards a dawn where technology and ethical responsibility converge for a brighter, more humane tomorrow."
 
 feature_row2:
   - image_path: /assets/images/logo_2.webp
