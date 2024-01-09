@@ -14,6 +14,9 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
     font-size: 1em;
 }
 
+.archive_subtitle {
+    class: "Kenshōs";
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
