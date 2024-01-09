@@ -9,7 +9,6 @@ header:
   overlay_image: /assets/images/header.webp
 author_profile: true
 clases: wide
-masthead_title: "Thalient Cybernetics"
 
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
