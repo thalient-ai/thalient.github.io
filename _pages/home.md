@@ -3,10 +3,10 @@ layout: single
 permalink: /
 hidden: false
 title: " "
-header:
-  overlay_color: "#5e616c"
-  overlay_filter: 0.5
-  overlay_image: /assets/images/header.webp
+#header:
+  # overlay_color: "#5e616c"
+  # overlay_filter: 0.5
+  # overlay_image: /assets/images/header.webp
 author_profile: true
 clases: wide
 
