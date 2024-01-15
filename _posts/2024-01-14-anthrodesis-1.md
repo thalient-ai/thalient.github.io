@@ -18,6 +18,8 @@ What I want to discuss is judgement and loss.
 
 Those who are healthy in their mobility, in my opinion, tend not to understand the perspective of the injured. To me, my loss has already hapoened - there is no full recovery. I will never run, I will never jump but I can limp along with a stump of a leg. Giving it up, I feel would improve my quality of life, I feel it would enable me to do those active things again. I don't fear the amputation, I don't fear the phantom pain, I don't fear the prosthetics. What I fear is not being able to live life to the fullest.
 
-Maybe my opinion will change with time. Maybe I am wrong, but with the options laid in front of me I would choose amputation simply because it provides more utility to living life.
+Maybe my opinion will change with time. Maybe I am wrong, but with the options laid in front of me I would choose amputation simply because it provides more utility.
 
-When I've brought up these thoughts with medical practitioners, it was met with concern, disgust, hesistancy, and bewilderment but never with openness and real dialogue. 
+When I've brought up these thoughts with medical practitioners, it was met with concern, disgust, hesistancy, and bewilderment but never with openness and real dialogue.
+
+For those in a similar situation, you can reach out to me and I will listen.
