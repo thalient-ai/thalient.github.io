@@ -22,4 +22,6 @@ Maybe my opinion will change with time. Maybe I am wrong, but with the options l
 
 When I've brought up these thoughts with medical practitioners, it was met with concern, disgust, hesistancy, and bewilderment but never with openness and real dialogue.
 
+Today, I am recovering. I have made progress over the past few months in terms of weight-bearing and graduating from forearm crutches to a cane. While positive, this progress has also shown me the limitations that my injury and fusion have left me.
+
 For those in a similar situation, you can reach out to me and I will listen.
