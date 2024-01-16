@@ -1,7 +1,7 @@
 ---
 title: "Arthrodesis, Pt. 1"
-header:
-  teaser: /assets/images/thalient.webp
+# header:
+  # teaser: /assets/images/thalient.webp
 ---
 
 I'm writing this post because, in my experience, there is not a lot of information or judgement-free support for those who are given an option of either surgical fusion or elective amputation.
