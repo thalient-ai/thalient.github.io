@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title: "AI Key Concepts"
 ---
 
