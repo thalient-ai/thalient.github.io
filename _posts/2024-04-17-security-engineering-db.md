@@ -1,5 +1,5 @@
 ---
-title: "On Thalient Cybernetics"
+title: "Relating Security Engineering & Cybersecurity Standards"
 # header:
   # teaser: /assets/images/thalient.webp
 ---
