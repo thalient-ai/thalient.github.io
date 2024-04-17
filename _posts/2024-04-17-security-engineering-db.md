@@ -1,6 +1,5 @@
-
 ---
-title: "Security Engineering - Relational Database"
+title: "On Thalient Cybernetics"
 # header:
   # teaser: /assets/images/thalient.webp
 ---
