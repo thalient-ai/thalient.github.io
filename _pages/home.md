@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /
 hidden: false
 title: " "
@@ -8,7 +8,7 @@ title: " "
   # overlay_filter: 0.5
   # overlay_image: /assets/images/header.webp
 author_profile: true
-classes: wide
+clases: wide
 
 feature_row:
   - image_path: assets/images/logo_blue_circle.webp
