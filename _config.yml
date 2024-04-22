@@ -22,7 +22,7 @@ url: https://www.thalient.ai
 minimal_mistakes_skin: "dark"
 search: true
 masthead_title: "Thalient Cybernetics"
-breadcrumsb: true
+breadcrumbs: true
 og_image: /assets/images/logo_blue_circle.webp
 
 # Build settings
