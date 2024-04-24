@@ -10,21 +10,21 @@ title: " "
 author_profile: true
 classes: wide
 feature_row:
-  - image_path: /assets/images/logo_2.webp
+  - image_path: /assets/images/image_part_001.png
     title: "Raison D'être"
     alt: "Raison D'être"
     excerpt: "*Reasons for being*, this is our philosophy, our meaning and purpose. *Memento mori* is to remember that time is a limited resource."
     url: "/raison/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
-  - image_path: /assets/images/logo_4.webp
+  - image_path: /assets/images/image_part_002.png
     title: "Sapere Aude"
     alt: "Sapere Aude"
     excerpt: "*Dare to know*, knowledge is a tool for personal and societal empowerment. Sapere Aude is our knowledge base, a digital garden."
     url: "https://obsidian.thalient.ai/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
-  - image_path: /assets/images/logo_3.webp
+  - image_path: /assets/images/image_part_003.png
     title: "Satori"
     alt: "Satori"
     excerpt: "*Satori*, a sudden, profound enlightenment or awakening. Satori is our collection of moments of insight and lasting realizations."
