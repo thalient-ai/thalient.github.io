@@ -3,7 +3,9 @@ permalink: /raison/
 title: "Raison D'être"
 ---
 
-My purpose is to develop technology with a deep focus on safety and security, believing that innovation must uplift humanity, not compete with or dominate it. I seek to explore the complex relationships between humans, technology, and their environment. I believe in challenging traditional boundaries and categories in science and technology to foster more inclusive and empathetic understandings of our world. My approach to technology is not merely professional; it is an expression of my way of being and a way of interacting with the world that champions a responsible, thoughtful, and human-centered use of technology.
+My purpose is to advance the development and application of technology with a vigilant focus on ethical implications and social responsibility. I believe in harnessing the power of scientific innovation to solve pressing global challenges, aiming to enhance human well-being and environmental sustainability. I am committed to creating technologies that are not only effective but also safe and secure, ensuring they serve to empower humanity rather than diminish it. 
+
+Through interdisciplinary collaboration and thoughtful integration of diverse perspectives, I strive to break traditional boundaries in science and technology. My approach seeks to foster a more inclusive understanding of how technology interacts with both human societies and the natural world. Ultimately, my work is driven by a vision where technology is a tool for positive transformation, promoting equity, efficiency, and a deeper connection between people and their environment
 
 ## Thalient Cybernetics
 
