@@ -17,6 +17,8 @@ To address these questions, I've created a publicly accessible relational databa
 
 Explore the Airtable database: [Link](https://airtable.com/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI/tblzmbXeKrcG7FiFE/viwGxbuWwIFDXSEbu?blocks=biped4Irb3IzRtqjD)
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI?backgroundColor=purpleDusty" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 For those who prefer the raw data, the .csv files and junction tables are available on GitHub.
 
 Access the GitHub repository: [Link](https://github.com/thalient-ai/Security-Engineering)
@@ -64,7 +66,3 @@ Do these mappings mean anything?
 Are we focusing too much on compliance and too little on engineering?
 
 I hope to make more data available in the coming weeks.
-
-
-
-#cyber #cybersecurity #software #defense #security #military
