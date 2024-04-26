@@ -2,7 +2,8 @@
 title: "Relating Security Engineering & Cybersecurity Standards"
 classes: wide
 tags:
-	- cybersecurity
+	- Cybersecurity
+	- Airtable
 ---
 
 Cybersecurity is overwhelmed by standards, guidance, recommendations, and requirements.
