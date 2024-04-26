@@ -24,7 +24,7 @@ search: true
 masthead_title: "Thalient Cybernetics"
 breadcrumbs: true
 og_image: /assets/images/logo_blue_circle.webp
-logo: /assets/images/logo_masthead.png
+logo: /assets/images/logo_masthead.webp
 
 # Build settings
 markdown: kramdown
