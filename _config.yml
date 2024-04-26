@@ -128,4 +128,4 @@ analytics:
   provider: "custom"
 
 atom_feed:
-  hide: true
+  hide: false
