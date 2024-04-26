@@ -1,5 +1,6 @@
 ---
 title: "On Thalient Cybernetics"
+classes: wide
 # header:
   # teaser: /assets/images/thalient.webp
 ---
