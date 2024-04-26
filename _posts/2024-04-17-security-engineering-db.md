@@ -1,5 +1,6 @@
 ---
 title: "Relating Security Engineering & Cybersecurity Standards"
+classes: wide
 # header:
   # teaser: /assets/images/thalient.webp
 ---
