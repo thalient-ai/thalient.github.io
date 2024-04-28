@@ -1,0 +1,7 @@
+---
+title: Systems Engineering
+layout: collection
+permalink: /syseng/
+collection: syseng
+entries_layout: grid
+---
