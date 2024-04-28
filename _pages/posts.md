@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /posts/
+title: "Collections"
+permalink: /collections/
 layout: tags
 author_profile: true
 entries_layout: grid

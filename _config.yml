@@ -97,7 +97,7 @@ footer:
 
 # Collections
 collections:
-  portfolio:
+  cybersecurity:
     output: true
     permalink: /:collection/:path/
 
