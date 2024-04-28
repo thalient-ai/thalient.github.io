@@ -1,7 +1,6 @@
 ---
 title: "Relating Security Engineering & Cybersecurity Standards"
 last_modified_at: 2024-04-28
-author_profile: false
 toc_sticky: true
 classes: wide
 tags:
