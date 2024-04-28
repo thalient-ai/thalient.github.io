@@ -97,7 +97,7 @@ footer:
 
 # Collections
 collections:
-  cybersecurity:
+  cyber:
     output: true
     permalink: /:collection/:path/
   syseng:
