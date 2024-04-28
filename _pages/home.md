@@ -30,7 +30,7 @@ feature_row:
     title: "Satori"
     alt: "Satori"
     excerpt: "*Satori* is a sudden, profound enlightenment or awakening. This is a collection of posts that, hopefully, provide insight and realizations."
-    url: "/posts/"
+    url: "/collections/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
 ---
