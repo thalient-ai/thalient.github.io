@@ -95,6 +95,12 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # _posts
@@ -116,6 +122,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: cybersecurity
+    values:
+      layout: single
+      author_profile: false
+      author_profile: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "docs"
 
 #category_archive:
 #  type: liquid
