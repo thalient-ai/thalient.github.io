@@ -1,5 +1,6 @@
 ---
 title: "On Thalient Cybernetics"
+toc_sticky: true
 classes: wide
 ---
 
