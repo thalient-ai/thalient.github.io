@@ -100,8 +100,6 @@ collections:
   cybersecurity:
     output: true
     permalink: /:collection/:path/
-    
-collections:
   syseng:
     output: true
     permalink: /:collection/:path/
@@ -130,7 +128,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: cybersecurity
+      type: collections
     values:
       layout: single
       author_profile: false
