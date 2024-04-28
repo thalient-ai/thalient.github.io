@@ -125,17 +125,20 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _cyber
   - scope:
       path: ""
-      type: collections
+      type: cyber
     values:
       layout: single
       author_profile: false
-      toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "docs"
+  # _syseng
+  - scope:
+      path: ""
+      type: syseng
+    values:
+      layout: single
+      author_profile: false
 
 #category_archive:
 #  type: liquid
