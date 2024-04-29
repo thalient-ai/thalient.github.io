@@ -100,7 +100,7 @@ collections:
   cyber:
     output: true
     label: "Cybersecurity"
-  Systems_Engineering:
+  syseng:
     output: true
     permalink: /:collection/:path/
 
