@@ -3,7 +3,6 @@ permalink: /tools/
 title: "Tools and Technologies"
 classes: wide
 ---
-# Tools and Technologies
 
 Placeholder
 

@@ -14,7 +14,7 @@ feature_row:
     title: "Praxis"
     alt: "Praxis"
     excerpt: "*Praxis*, applying theory to practice. These posts aim to bridge the gap between insight and real-world application."
-    url: "/category/"
+    url: "/categories/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
   - image_path: /assets/images/image_part_002.webp
