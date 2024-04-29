@@ -94,17 +94,6 @@ footer:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bschult"
 
-# Collections
-collections:
-  cyber:
-    output: true
-    title: "Cybersecurity"
-    permalink: /:collection/:path/
-  syseng:
-    output: true
-    title: "Systems Engineering"
-    permalink: /:collection/:path/
-
 # Defaults
 defaults:
   # _posts
@@ -126,20 +115,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _cyber
-  - scope:
-      path: ""
-      type: cyber
-    values:
-      layout: single
-      author_profile: false
-  # _syseng
-  - scope:
-      path: ""
-      type: syseng
-    values:
-      layout: single
-      author_profile: false
 
 #category_archive:
 #  type: liquid
