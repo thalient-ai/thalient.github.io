@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  #bio  : "Illegitimi non carborundum"
+  bio  : "Illegitimi non carborundum"
   location: "Orange County (CA)"
   links:
     - label: "Email"
@@ -99,12 +99,10 @@ footer:
 collections:
   cyber:
     output: true
-    label: "Cybersecurity"
     title: "Cybersecurity"
     permalink: /:collection/:path/
   syseng:
     output: true
-    label: "Systems Engineering"
     title: "Systems Engineering"
     permalink: /:collection/:path/
 
