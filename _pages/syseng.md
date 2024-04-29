@@ -6,4 +6,6 @@ collection: syseng
 entries_layout: grid
 author_profile: false
 classes: wide
+sidebar:
+  nav: "sidebar"
 ---
