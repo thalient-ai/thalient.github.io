@@ -29,11 +29,24 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 .author__bio {
   margin: 0;
 
+.author__name {
+  margin: 0;
+
   @include breakpoint($large) {
-    margin-top: 0px;
-    margin-bottom: 10px;
+    margin-top: 5px;  /* Reduced from 10px */
+    margin-bottom: 5px;  /* Reduced from 10px */
   }
 }
+
+.author__bio {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 5px;  /* Reduced from 10px */
+    margin-bottom: 20px;  /* Keep or adjust as needed */
+  }
+}
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
