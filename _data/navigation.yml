@@ -8,8 +8,8 @@ main:
   - title: "Posts"
     url: /collection/
 
-docs:
-  - title: Cybersecurity
+sidebar:
+  - title: Categories
     children:
       - title: "Automotive"
         url: /iso21434/
