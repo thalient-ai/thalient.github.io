@@ -8,11 +8,11 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-  {% assign label = collection.label | default: collection.label %}
-  {% unless collection.output == false or label == "posts" %}
-    <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+  {% assign title = collection.title | default: collection.label %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    <h2 id="{{ title | slugify }}" class="archive__subtitle">{{ title }}</h2>
     {% for post in collection.docs %}
-      {% unless collection.output == false or label == "posts" %}
+      {% unless post.output == false or collection.label == "posts" %}
         {% include archive-single.html %}
       {% endunless %}
     {% endfor %}
