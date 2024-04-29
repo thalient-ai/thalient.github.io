@@ -10,6 +10,14 @@ gallery:
     image_path: /assets/videos/airtable_01.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
+  - url: /assets/videos/airtable_01.webp
+    image_path: /assets/videos/airtable_01.webp
+    alt: "Airtable Demo"
+    title: "Airtable Database"
+  - url: /assets/videos/airtable_01.webp
+    image_path: /assets/videos/airtable_01.webp
+    alt: "Airtable Demo"
+    title: "Airtable Database"
 
 ---
 
