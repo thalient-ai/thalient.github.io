@@ -9,17 +9,13 @@ sidebar:
 
 gallery:
   - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01_th.webp
+    image_path: /assets/videos/airtable_01_image.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
-  - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01_th.webp
-    alt: "Airtable Demo"
-    title: "Airtable Database"
-  - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01_th.webp
-    alt: "Airtable Demo"
-    title: "Airtable Database"
+  - url: /assets/videos/airtable_02.webp
+    image_path: /assets/videos/airtable_02_image.webp
+    alt: "Airtable Schema"
+    title: "Airtable Schema"
 
 ---
 
