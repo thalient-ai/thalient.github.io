@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  bio  : "Illegitimi non carborundum"
+  #bio  : "Illegitimi non carborundum"
   location: "Orange County (CA)"
   links:
     - label: "Email"
