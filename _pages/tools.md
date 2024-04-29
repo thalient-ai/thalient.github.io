@@ -2,6 +2,7 @@
 layout: single
 permalink: /tools/
 title: "Tools and Technologies"
+author_profile: false
 classes: wide
 
 feature_row0-1:
