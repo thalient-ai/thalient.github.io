@@ -128,7 +128,7 @@ defaults:
   # _cyber
   - scope:
       path: ""
-      type: cyber
+      type: Cyber
     values:
       layout: single
       author_profile: false
