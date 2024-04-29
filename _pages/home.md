@@ -34,6 +34,7 @@ feature_row:
 ---
 Insert text here
 
+<h2>Recent Posts</h2>
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
