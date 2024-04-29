@@ -10,8 +10,9 @@ main:
 
 sidebar:
   - title: Discipline
-     children:
+    children:
       - title: "Cybersecurity"
         url: /cyber/
       - title: "Systems Engineering"
         url: /syseng/
+
