@@ -4,6 +4,8 @@ permalink: /tools/
 title: "Tools and Technologies"
 author_profile: false
 classes: wide
+sidebar:
+  nav: "sidebar"
 
 gallery:
   - url: /assets/videos/airtable_01.webp
