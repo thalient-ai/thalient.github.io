@@ -14,7 +14,7 @@ feature_row:
     title: "Praxis"
     alt: "Praxis"
     excerpt: "*Praxis*, applying theory to practice. These posts aim to bridge the gap between insight and real-world application."
-    url: "/collection/"
+    url: "/category/"
     btn_class: "btn--inverse"
     btn_label: "Discover"
   - image_path: /assets/images/image_part_002.webp
@@ -28,7 +28,7 @@ feature_row:
     title: "Sapere Aude"
     alt: "Sapere Aude"
     excerpt: "*Dare to know*, knowledge liberates both the individual and enlightens society. These are the tools that I use to deepen understanding."
-    url: "https://obsidian.thalient.ai/"
+    url: "/tools/"
     btn_class: "btn--inverse"
     btn_label: "Explore"
 
