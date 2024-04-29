@@ -32,6 +32,8 @@ feature_row:
     btn_class: "btn--inverse"
     btn_label: "Discover"
 ---
+Insert text here
+
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
