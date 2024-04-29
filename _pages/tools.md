@@ -7,15 +7,15 @@ classes: wide
 
 gallery:
   - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01.webp
+    image_path: /assets/videos/airtable_01_th.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
   - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01.webp
+    image_path: /assets/videos/airtable_01_th.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
   - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01.webp
+    image_path: /assets/videos/airtable_01_th.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
 
