@@ -9,7 +9,7 @@ main:
     url: /collection/
 
 sidebar:
-  - title: "Discipline"
+  - title: Discipline
      children:
       - title: "Cybersecurity"
         url: /cyber/
