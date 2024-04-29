@@ -4,4 +4,6 @@ layout: collection
 permalink: /cyber/
 collection: cyber
 entries_layout: grid
+author_profile: false
+classes:wide
 ---
