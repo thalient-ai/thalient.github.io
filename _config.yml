@@ -97,9 +97,9 @@ footer:
 
 # Collections
 collections:
-  Cybersecurity:
+  cyber:
     output: true
-    permalink: /:collection/:path/
+    label: "Cybersecurity"
   Systems_Engineering:
     output: true
     permalink: /:collection/:path/
