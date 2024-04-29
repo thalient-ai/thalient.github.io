@@ -1,8 +1,11 @@
 ---
 title: "Relating Security Engineering & Cybersecurity Standards"
+show_date: true
 last_modified_at: 2024-04-28
-toc_sticky: true
 classes: wide
+categories:
+  - Airtable
+  - Cybersecurity
 ---
 
 Cybersecurity is overwhelmed by standards, guidance, recommendations, and requirements.

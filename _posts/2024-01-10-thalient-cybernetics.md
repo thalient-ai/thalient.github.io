@@ -1,5 +1,6 @@
 ---
 title: "On Thalient Cybernetics"
+show_date: true
 classes: wide
 ---
 
