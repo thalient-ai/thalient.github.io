@@ -2,6 +2,6 @@
 title: Cybersecurity
 layout: category
 permalink: /cyber/
-taxonomy: cybersecurity
+taxonomy: Cybersecurity
 entries_layout: list
 ---
