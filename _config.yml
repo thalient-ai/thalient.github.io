@@ -129,10 +129,11 @@ defaults:
   # _cyber
   - scope:
       path: ""
-      type: cybersec
+      type: cyber
     values:
       layout: single
       author_profile: false
+      label: Cybersecurity
   # _syseng
   - scope:
       path: ""
