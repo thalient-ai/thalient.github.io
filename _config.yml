@@ -100,8 +100,12 @@ collections:
   cyber:
     output: true
     label: "Cybersecurity"
+    title: "Cybersecurity"
+    permalink: /:collection/:path/
   syseng:
     output: true
+    label: "Systems Engineering"
+    title: "Systems Engineering"
     permalink: /:collection/:path/
 
 # Defaults
