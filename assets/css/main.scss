@@ -22,5 +22,10 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
   font-size: 0.85em;
 }
 
+.u-url {
+  font-size: 0.85em;
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
