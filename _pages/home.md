@@ -8,8 +8,6 @@ title: " "
   # overlay_filter: 0.5
   # overlay_image: /assets/images/header.webp
 author_profile: true
-sidebar:
-  nav: "docs"
 classes: wide
 feature_row:
   - image_path: /assets/images/image_part_001.webp
