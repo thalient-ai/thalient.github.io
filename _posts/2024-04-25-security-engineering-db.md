@@ -1,8 +1,11 @@
 ---
 title: "Relating Security Engineering & Cybersecurity Standards"
-show_date: true
 last_modified_at: 2024-04-28
+show_date: true
+author_profile: false
 classes: wide
+sidebar:
+  nav: "sidebar"
 categories:
   - Airtable
   - Cybersecurity
