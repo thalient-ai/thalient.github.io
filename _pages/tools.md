@@ -7,7 +7,7 @@ classes: wide
 
 gallery:
   - url: /assets/videos/airtable_01.webp
-    image_path: /assets/videos/airtable_01
+    image_path: /assets/videos/airtable_01.webp
     alt: "Airtable Demo"
     title: "Airtable Database"
 
