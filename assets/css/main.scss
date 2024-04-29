@@ -14,5 +14,9 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
     font-size: 1em;
 }
 
+.page__content {
+  font-size: .08em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
