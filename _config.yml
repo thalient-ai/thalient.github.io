@@ -97,10 +97,10 @@ footer:
 
 # Collections
 collections:
-  cybersec:
+  Cybersecurity:
     output: true
     permalink: /:collection/:path/
-  syseng:
+  Systems_Engineering:
     output: true
     permalink: /:collection/:path/
 

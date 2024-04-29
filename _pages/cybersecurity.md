@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity
 layout: collection
-permalink: /Cyber/
-collection: cybersec
+permalink: /cyber/
+collection: Cybersecurity
 entries_layout: grid
 ---

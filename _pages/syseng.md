@@ -2,6 +2,6 @@
 title: Systems Engineering
 layout: collection
 permalink: /syseng/
-collection: syseng
+collection: Systems_Engineering
 entries_layout: grid
 ---
