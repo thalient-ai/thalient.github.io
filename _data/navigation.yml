@@ -13,4 +13,9 @@ sidebar:
         url: /cyber/
       - title: "Systems Engineering"
         url: /syseng/
-
+  - title: Tools
+    children:
+      - title: "Airtable"
+        url: /airtable/
+      - title: "Obsidian"
+        url: /obsidian/
