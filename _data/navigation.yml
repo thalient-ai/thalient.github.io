@@ -9,7 +9,9 @@ main:
     url: /collection/
 
 sidebar:
-  - title: Categories
-    children:
-      - title: "Automotive"
-        url: /iso21434/
+  - title: "Discipline"
+     children:
+      - title: "Cybersecurity"
+        url: /cyber/
+      - title: "Systems Engineering"
+        url: /syseng/
