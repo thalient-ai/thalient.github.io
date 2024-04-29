@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity
 layout: category
-permalink: /categories/cybersecurity/
+permalink: /cyber/
 taxonomy: cybersecurity
 entries_layout: list
 ---
