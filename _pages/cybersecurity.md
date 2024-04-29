@@ -2,7 +2,6 @@
 title: Cybersecurity
 layout: collection
 permalink: /Cyber/
-collection: cyber
+collection: cybersec
 entries_layout: grid
-label: Cybersecurity
 ---
