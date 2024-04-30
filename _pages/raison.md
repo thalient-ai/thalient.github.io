@@ -1,5 +1,6 @@
 ---
 permalink: /raison/
+title: " "
 classes: wide
 ---
 ## Raison D'être
