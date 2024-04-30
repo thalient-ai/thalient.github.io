@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Brandyn Schult"
   avatar : "/assets/images/logo_head.webp"
-  bio  : "If can, can. If no can, no can."
+  bio  : "Developing technology for a brighter, more human tomorrow."
   location: "Orange County (CA)"
   links:
     - label: "Email"
