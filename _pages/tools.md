@@ -3,7 +3,8 @@ layout: single
 permalink: /tools/
 title: "Tools and Technologies"
 author_profile: false
-classes: wide
+toc: true
+toc_sticky: true
 sidebar:
   nav: "sidebar"
 
