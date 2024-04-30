@@ -28,7 +28,8 @@ feature_row:
     btn_class: "btn--inverse"
     btn_label: "Reflect"
 ---
-Insert Text
+
+<p>Insert Text<p>
 
 <h2>Recent Posts</h2>
 {% for post in site.posts limit: 5 %}
