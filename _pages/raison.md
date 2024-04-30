@@ -18,7 +18,7 @@ Seeking to bridge the gap between research and real-world application, I joined 
 
 Currently, at Supernal, I am embracing the challenge of designing a clean sheet for an electric Vertical Take-off and Lift (eVTOL) aircraft. This role offers an incredibly rare opportunity to pioneer in the field of aerospace engineering, bringing together all facets of my diverse background.
 
-Along this path, my passion for technology has become more defined. I live for the challenge of developing safe, trustworthy, and reliable technology, whether in military or civil contexts, and whether in aerospace or automotive industries, manual or autonomous systems. 
+Along this path, my passion for technology has become more defined. I live for the challenge of developing safe, trustworthy, and reliable technology, whether in military or civil contexts, and whether in aerospace or automotive industries, manned or autonomous systems. 
 
 ## Thalient Cybernetics
 
