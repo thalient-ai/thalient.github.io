@@ -20,11 +20,15 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 .page__title {
   font-size: 1.10em;
-  margin-bottom: 0.15em;
+  margin-bottom: 0.25em;
 }
 
 .page__lead {
   font-size: 1.15em;
+}
+
+.page__meta-date {
+  margin-bottom: 0.15em;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
