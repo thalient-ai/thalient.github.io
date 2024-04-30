@@ -3,10 +3,22 @@ permalink: /raison/
 title: "Raison D'être"
 classes: wide
 ---
-
+---
 My purpose is to advance the development and application of technology with a focus on ethical implications and social responsibility. I am committed to creating technologies that are not only effective but also safe and trustworthy, ensuring they serve to empower humanity rather than diminish it. 
 
 By breaking traditional boundaries in science and technology, I aim to foster a more inclusive understanding of how we interact with technology. Ultimately, my work is driven by a vision where technology serves as a catalyst for positive transformation — enhancing equity, effectiveness, and fostering a deeper connection between people and their environment.
+
+## About Me
+
+I am a human ecologist by training who unexpectedly found a career in security engineering within defense and national security. My academic foundation is in the liberal arts, enriched by a passion for phycology and marine mammal research. I studied at the College of the Atlantic and was an inaugural National Science Foundation CyberCorps recipient at the University of Maryland Baltimore County.
+
+My professional journey took a significant turn when I joined the Massachusetts Institute of Technology Lincoln Laboratory, a Department of Defense Federally Funded Research and Development Center. There, I deepened my respect for the fundamentals of cybersecurity, scientific inquiry, and systems analysis. This experience was pivotal, and I cherish the wisdom and knowledge I gained.
+
+Seeking to bridge the gap between research and real-world application, I joined Lockheed Martin Aeronautics, diving into the F-35 Joint Strike Fighter program and Skunk Works projects. This move was followed by a role at the F-35 Joint Program Office, where I gained a deep appreciation for the role of my government and military counterparts.
+
+Currently, at Supernal, I am embracing the challenge of designing a clean sheet for an electric Vertical Take-off and Lift (eVTOL) aircraft. This role offers an incredibly rare opportunity to pioneer in the field of aerospace engineering, bringing together all facets of my diverse background.
+
+Along this path, my passion for technology has become more defined. I live for the challenge of developing safe, trustworthy, and reliable technology, whether in military or civil contexts, and whether in aerospace or automotive industries, manual or autonomous systems. 
 
 ## Thalient Cybernetics
 
