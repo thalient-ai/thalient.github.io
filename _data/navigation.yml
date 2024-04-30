@@ -1,6 +1,8 @@
 main:
   - title: "Résumé"
     url: assets/docs/Brandyn_Schult_Resume.pdf
+  - title: "About"
+    url: /raison/
   - title: "Tools"
     url: /tools/
   - title: "Posts"
