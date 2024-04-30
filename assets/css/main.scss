@@ -27,13 +27,11 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 }
 
 @media (max-width: 768px) {
-  .feature_row img {
-    max-width: 75%; /* Ensure images don't overflow their containers */
-    height: auto; /* Maintain aspect ratio */
-    /* Add additional styles as needed */
+  .archive__item-teaser img {
+    width: 70%;   /* Makes the image width responsive to the screen size */
+    height: auto;  /* Maintains the aspect ratio of the images */
   }
 }
-
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
