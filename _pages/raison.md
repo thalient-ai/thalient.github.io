@@ -4,9 +4,9 @@ title: "Raison D'être"
 classes: wide
 ---
 
-My purpose is to advance the development and application of technology with a vigilant focus on ethical implications and social responsibility. I believe in harnessing the power of scientific innovation to solve pressing global challenges, aiming to enhance human well-being and environmental sustainability. I am committed to creating technologies that are not only effective but also safe and secure, ensuring they serve to empower humanity rather than diminish it. 
+My purpose is to advance the development and application of technology with a focus on ethical implications and social responsibility. I am committed to creating technologies that are not only effective but also safe and trustworthy, ensuring they serve to empower humanity rather than diminish it. 
 
-Through interdisciplinary collaboration and thoughtful integration of diverse perspectives, I strive to break traditional boundaries in science and technology. My approach seeks to foster a more inclusive understanding of how technology interacts with both human societies and the natural world. Ultimately, my work is driven by a vision where technology is a tool for positive transformation, promoting equity, efficiency, and a deeper connection between people and their environment
+By breaking traditional boundaries in science and technology, I aim to foster a more inclusive understanding of how we interact with technology. Ultimately, my work is driven by a vision where technology serves as a catalyst for positive transformation — enhancing equity, effectiveness, and fostering a deeper connection between people and their environment.
 
 ## Thalient Cybernetics
 
