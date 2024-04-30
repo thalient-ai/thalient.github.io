@@ -1,8 +1,10 @@
 ---
 permalink: /raison/
-title: "Raison D'être"
+title: " "
 classes: wide
 ---
+
+## Raison D'être
 
 My purpose is to advance the development and application of technology with a vigilant focus on ethical implications and social responsibility. I believe in harnessing the power of scientific innovation to solve pressing global challenges, aiming to enhance human well-being and environmental sustainability. I am committed to creating technologies that are not only effective but also safe and secure, ensuring they serve to empower humanity rather than diminish it. 
 
