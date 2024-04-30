@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 hidden: false
-title: "Thalient"
+title: "Recent Posts"
 author_profile: true
 classes: wide
 feature_row:
@@ -29,9 +29,6 @@ feature_row:
     btn_label: "Reflect"
 ---
 
-<p>Insert Text<p>
-
-<h2>Recent Posts</h2>
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
