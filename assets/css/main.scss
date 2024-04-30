@@ -14,6 +14,11 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
     font-size: 1em;
 }
 
+  + .list__item .archive__item-title {
+    margin-top: 0em;
+  }
+}
+
 .page__content {
   font-size: 0.85em;
 }
