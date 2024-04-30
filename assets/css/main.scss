@@ -22,8 +22,10 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 .page__title {
     font-size: 1.10em;
-    line-height: 0em;
 }
+
+.page__title p-title {
+    line-height: 0em;
 
 .page__lead {
     font-size: 1.15em;
