@@ -26,10 +26,6 @@ Airtable is a cloud-based platform that combines the features of a traditional d
 
 {% include gallery %}
 
-Below is an embedded Airtable displaying a range of interconnected cybersecurity standards and requirements.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI?backgroundColor=purpleDusty&layout=grid" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 ## Obsidian
 
 Placeholder
