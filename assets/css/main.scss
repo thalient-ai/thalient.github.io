@@ -28,7 +28,7 @@ $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 @media (max-width: 768px) {
   .archive__item-teaser img {
-    width: 70%;   /* Makes the image width responsive to the screen size */
+    width: 45%;   /* Makes the image width responsive to the screen size */
     height: auto;  /* Maintains the aspect ratio of the images */
   }
 }
