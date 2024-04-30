@@ -31,11 +31,14 @@ feature_row:
     url: "/raison/"
     btn_class: "btn--inverse"
     btn_label: "Reflect"
-
 ---
+Insert Text
+
 <h2>Recent Posts</h2>
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
+
 ---
+
 {% include feature_row id="feature_row" %}
